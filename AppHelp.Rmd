@@ -1,0 +1,72 @@
+---
+title: "Get Started Predicting Family Heights"
+output: html_document
+---
+
+### So you want to predict the height of your children?
+
+### There's an app for that! 
+
+### And this is it!
+
+#### How do you use the app?
+
+#### Well, that's what this page is for!
+
+#### Use the sliders on the side panel to: 
+
+1. Choose the height of the mother (in inches)
+2. Choose the height of the father (in inches)
+3. Choose how many children are in the family (up to 15)
+
+For each child in your family,
+
+1. Choose the birth order (1 = first born)
+2. Choose the gender (male or female - the app does not include gender option for robot children)
+3. Enter the child's name 
+4. Click Update Family Heights button
+
+Then poof! A chart showing parents height and children predicted height is shown.
+
+#### If you don't enter a name for you child then we name your child something boring
+
+#### It is best to add each child in sequential birth order (e.g., 1,2,3,....)
+
+#### Wait! I want to create a new graph? 
+
+Push the Restart button located under the chart
+
+We included a hint question that says "Need to start over?"
+
+#### For fun:
+
+- family member placement on the graph is ordered from predicted tallest to shortest
+- Females are shown in pink
+- Males are shown in blue
+
+You can add up to 15 children!!! (Even if you only have 2)
+
+Thinking about having another child? How tall might he or she be? 
+
+#### A few rules: (just a few ... you will still have fun)
+
+- if you choose a child number that is greater than the number you chose for number of children the app ignores your choice (so don't do that)
+
+
+
+#### About:
+
+The prediction method in this app uses parents heights, gender, and birth order to predict the height of the child. While informative and insightful, this app is created to stimulate curiosity and ...
+
+## HAVE FUN!
+
+# SO GO PLAY! 
+
+#### Hit App on the top navigation bar to begin (or resume)
+
+#### All Done?
+
+What, you want to stop predicting family heights? Well... if you must.
+
+Just close the browser page usign the x in the upper right of the window.
+
